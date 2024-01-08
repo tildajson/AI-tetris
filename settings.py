@@ -7,7 +7,7 @@ FPS = 60
 FIELD_COLOR = (15, 15, 15)
 BG_COLOR = (36, 39, 35)
 
-FONT_PATH = 'assets/font/RetroGaming.ttf'
+FONT_PATH = 'RetroGaming.ttf'
 
 ANIM_TIME_INTERVAL = 150  # milliseconds
 FAST_ANIM_TIME_INTERVAL = 50
